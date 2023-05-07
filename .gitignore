@@ -1,3 +1,7 @@
+# Custom
+.idea
+.gitignore
+
 # Compiled class file
 *.class
 
