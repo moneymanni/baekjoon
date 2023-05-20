@@ -1,6 +1,8 @@
 # Custom
 .idea
 .gitignore
+out
+test.java
 
 # Compiled class file
 *.class
