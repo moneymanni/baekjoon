@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- * 숫자의 합 (백준 온라인 저지 11720번)
+ * 숫자의 합 : 백준 온라인 저지 11720번
  * https://www.acmicpc.net/problem/11720
  */
 

@@ -1,5 +1,10 @@
 import java.util.Scanner;
 
+/**
+ * 수들의 합 5 : 백준 온라인 저지 2018번
+ * https://www.acmicpc.net/problem/2018
+ */
+
 public class Num2018 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

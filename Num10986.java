@@ -1,5 +1,10 @@
 import java.util.Scanner;
 
+/**
+ * 나머지의 합 : 백준 온라인 저지 10986번
+ * https://www.acmicpc.net/problem/10986
+ */
+
 public class Num10986 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

@@ -4,7 +4,7 @@ import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
 /**
- * 구간 합 구하기 4 (백준 온라인 저지 11659번)
+ * 구간 합 구하기 4 : 백준 온라인 저지 11659번
  * https://www.acmicpc.net/problem/11659
  */
 

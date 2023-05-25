@@ -3,6 +3,11 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
+/**
+ * 구간 합 구하기 5 : 백준 온라인 저지 11660번
+ * https://www.acmicpc.net/problem/11660
+ */
+
 public class Num11660 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

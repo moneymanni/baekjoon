@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- * 평균 (백준 온라인 저지 1546번)
+ * 평균 : 백준 온라인 저지 1546번
  * https://www.acmicpc.net/problem/1546
  */
 
